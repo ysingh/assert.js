@@ -1,0 +1,30 @@
+{
+  "name": "assert.js",
+  "version": "1.0.0",
+  "description": "assertions on the browser for javascript",
+  "main": "example.html",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "javascript",
+    "assertions",
+    "browser"
+  ],
+  "author": "Yudhishthir Singh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ysingh/assert.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ysingh/assert.js/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-rename": "^1.2.2"
+    },
+  "homepage": "https://github.com/ysingh/assert.js#readme"
+}
