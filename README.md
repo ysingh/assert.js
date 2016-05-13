@@ -8,9 +8,10 @@ It's useful for expressions that you want to see pass/fail based on [truthyness]
 ## Usage
 
 *   Add assert.min.js to your scripts.
-*   Call the assert() fuction. Assert takes two parameters. The first parameter is a javascript expression. The second parameter is a string that describes what the assertion was testing (the assertion message)
+*   Call the assert() fuction. Assert takes two parameters. The first parameter is a javascript expression. The second parameter is a string that describes what the assertion was testing (the assertion message).
 *   The assertion "passes" if the expression evaluates to a truthy value and fails otherwise.
-*   The results are rendered on the html page, as divs attached directly onto the document body
+*   The results are rendered on the html page, as divs attached directly onto the document body.
+*   The result consists of the assertion message and is styled in green for a passing assertion, strikethrough red for a failing assertion.
 
 ## Example
 
