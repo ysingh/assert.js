@@ -1,7 +1,7 @@
 # assert.js - Simple assertions for javascript
 Assertions for javascript with output to the browser
 
-assert.js adds asserions to javascript and outputs results to the browser. It's useful for simple debugging, in cases where writing tests is overkill and you'd rather have the results displayed on the browser instead of having to open dev tools.
+assert.js adds assertions to javascript and outputs results to the browser. It's useful for simple debugging, in cases where writing tests is overkill and you'd rather have the results displayed on the browser instead of having to open dev tools.
 
 It's useful for expressions that you want to see pass/fail based on [truthyness](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and [falseyness](https://developer.mozilla.org/en-US/docs/Glossary/Falsy).
 
